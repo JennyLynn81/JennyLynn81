@@ -1,16 +1,14 @@
-## Hi there 👋
+#About me
 
-<!--
-**JennyLynn81/JennyLynn81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some fun facts about me!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🆔 I go by Jenny.
+- 🎨 I'm a jewelry designer and creator and I work out of my home. 
+- 💍 I’m currently working on finding my signature style in my jewelry design. 
+- 💎 I’m currently learning everything I can about designing and creating jewelry. 
+- 🤔 I’m looking for help with all of this! I have never done coding of any kind. 
+- 👧 Ask me about my granddaughter. 
+- 📫 How to reach me: Email: jenlreichert23@gmail.com
+- 👩‍🦰 Pronouns: She/her
+- 🍀 Fun fact: I love everything about Ireland and it's culture! I even took a few Irish dancing lessons as a teenager. 
+  
